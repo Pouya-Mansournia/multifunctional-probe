@@ -1,0 +1,13 @@
+[DesignatorManager]
+
+[SheetNumberManager]
+SheetNumberOrder=Display Order
+SheetNumberMethod=Increasing
+DocumentName0=Dashboard - Multifunctional Probe.SchDoc
+UniqueIDPath0=
+SheetNumber0=1
+DocumentName1=Power Management.SchDoc
+UniqueIDPath1=
+SheetNumber1=2
+
+
